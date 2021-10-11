@@ -10,6 +10,6 @@ The following image demonstrates the application functionality:
 
 ## Application Links
 
-* The URL of the deployed application, 
+* The URL of the deployed application, git@github.com:SKYRIMpro1/Password-Generator.git
 
-* The URL of the GitHub repository, 
+* The URL of the GitHub repository, https://github.com/SKYRIMpro1/Password-Generator
